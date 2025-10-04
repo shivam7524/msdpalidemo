@@ -1,0 +1,873 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\MSDCollegePali.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MSDCollegePali.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\customjs\\Indexjs.js",
+      "PackagePath": "staticwebassets\\customjs\\Indexjs.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\customjs\\Layoutjs.js",
+      "PackagePath": "staticwebassets\\customjs\\Layoutjs.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\msd\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\css\\style.css",
+      "PackagePath": "staticwebassets\\msd\\css\\style.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\ACTIVITIES-1.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\ACTIVITIES-1.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\ACTIVITIES-2.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\ACTIVITIES-2.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\ACTIVITIES-3.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\ACTIVITIES-3.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\ACTIVITIES-4.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\ACTIVITIES-4.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\ACTIVITIES-5.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\ACTIVITIES-5.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\ACTIVITIES-6.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\ACTIVITIES-6.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\ACTIVITIES-7.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\ACTIVITIES-7.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\ACTIVITIES-8.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\ACTIVITIES-8.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\About College.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\About College.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\BED.jpeg",
+      "PackagePath": "staticwebassets\\msd\\img\\BED.jpeg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\FLINGLM.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\FLINGLM.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\FOUNDER.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\FOUNDER.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\SAMAROH1.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\SAMAROH1.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\about.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\course-1.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\course-1.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\course-2.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\course-2.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\course-3.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\course-3.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\guru.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\guru.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\images (1).jpeg",
+      "PackagePath": "staticwebassets\\msd\\img\\images (1).jpeg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\images.jpeg",
+      "PackagePath": "staticwebassets\\msd\\img\\images.jpeg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\imgsgh2.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\imgsgh2.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\team-1.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\team-2.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\team-3.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\team-4.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\msd\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\js\\main.js",
+      "PackagePath": "staticwebassets\\msd\\js\\main.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\msd\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\msd\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\msd\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\msd\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\msd\\lib\\owlcarousel"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\msd\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\msd\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\msd\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\msd\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\msd\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\msd\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\msd\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\msd\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\msd\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\msd\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\msd\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\msd\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\msd\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\msd\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\logo\\logo1.png",
+      "PackagePath": "staticwebassets\\msd\\logo\\logo1.png"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\msd\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\sliderpic\\BNERTR67.jpg",
+      "PackagePath": "staticwebassets\\msd\\sliderpic\\BNERTR67.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\sliderpic\\BNRTY98.jpg",
+      "PackagePath": "staticwebassets\\msd\\sliderpic\\BNRTY98.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\sliderpic\\baner9.jpg",
+      "PackagePath": "staticwebassets\\msd\\sliderpic\\baner9.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\sliderpic\\baner90.jpg",
+      "PackagePath": "staticwebassets\\msd\\sliderpic\\baner90.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\sliderpic\\banner4.jpg",
+      "PackagePath": "staticwebassets\\msd\\sliderpic\\banner4.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\sliderpic\\banner6.jpg",
+      "PackagePath": "staticwebassets\\msd\\sliderpic\\banner6.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\sliderpic\\banner8.jpg",
+      "PackagePath": "staticwebassets\\msd\\sliderpic\\banner8.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\sliderpic\\banner80.jpg",
+      "PackagePath": "staticwebassets\\msd\\sliderpic\\banner80.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\sliderpic\\bner87.jpg",
+      "PackagePath": "staticwebassets\\msd\\sliderpic\\bner87.jpg"
+    },
+    {
+      "Id": "G:\\MSDCollegeWebSite\\MSDCollegePaliFinal\\MSDCollegePali\\MSDCollegePali\\wwwroot\\msd\\sliderpic\\bnrt89.jpg",
+      "PackagePath": "staticwebassets\\msd\\sliderpic\\bnrt89.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.MSDCollegePali.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.MSDCollegePali.props",
+      "PackagePath": "build\\MSDCollegePali.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MSDCollegePali.props",
+      "PackagePath": "buildMultiTargeting\\MSDCollegePali.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.MSDCollegePali.props",
+      "PackagePath": "buildTransitive\\MSDCollegePali.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

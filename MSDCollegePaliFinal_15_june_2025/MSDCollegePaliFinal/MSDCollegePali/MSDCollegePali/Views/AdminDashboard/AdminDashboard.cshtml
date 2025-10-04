@@ -1,0 +1,152 @@
+﻿@{
+    ViewData["Title"] = "AdminDashboard";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<style>
+    th {
+        background-color: #e1a9a940;
+    }
+</style>
+@* <div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Dashboard</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item active">Dashboard</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div> *@
+<!-- Small boxes (Stat box) -->
+<div class="row">
+    <div class="col-lg-3 col-6">
+        <!-- small box -->
+        <div class="small-box bg-info">
+            <div class="inner">
+                <h3>150</h3>
+
+                <p>B.A. Students</p>
+            </div>
+            <div class="icon">
+                <i class="ion ion-bag"></i>
+            </div>
+            <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+        </div>
+    </div>
+    <!-- ./col -->
+    <div class="col-lg-3 col-6">
+        <!-- small box -->
+        <div class="small-box bg-success">
+            <div class="inner">
+                <h3>145</h3>
+
+                <p>B.SC. Students</p>
+            </div>
+            <div class="icon">
+                <i class="ion ion-stats-bars"></i>
+            </div>
+            <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+        </div>
+    </div>
+    <!-- ./col -->
+    <div class="col-lg-3 col-6">
+        <!-- small box -->
+        <div class="small-box bg-warning">
+            <div class="inner">
+                <h3>120</h3>
+
+                <p>M.A. Students</p>
+            </div>
+            <div class="icon">
+                <i class="ion ion-person-add"></i>
+            </div>
+            <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+        </div>
+    </div>
+    <!-- ./col -->
+    <div class="col-lg-3 col-6">
+        <!-- small box -->
+        <div class="small-box bg-danger">
+            <div class="inner">
+                <h3>55</h3>
+
+                <p>M.SC. Students</p>
+            </div>
+            <div class="icon">
+                <i class="ion ion-pie-graph"></i>
+            </div>
+            <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+        </div>
+    </div>
+    <!-- ./col -->
+</div>
+<!-- /.row -->
+<!-- Main row -->
+<div class="row">
+    <!-- Left col -->
+    <section class="col-lg-12 connectedSortable">
+        <!-- Custom tabs (Charts with tabs)-->
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title font-weight-bold">Enqueries Students Details</h3>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <table id="example1" class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>Sr.No.</th>
+                            <th>Name</th>
+                            <th>Mobile</th>
+                            <th>Email</th>
+                            <th>Course</th>
+                            <th>Is Contact</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+
+    </section>
+    <!-- /.Left col -->
+
+</div>
+<script src="~/customjs/enqueryjs.js"></script>
+
+<!-- /.row (main row) -->
+<script>
+    $(document).ready(function () {
+        $('#progressPopup').addClass('d-none');
+         $(function () {
+             // $("#example1").DataTable({
+             //     "responsive": true, "lengthChange": false, "autoWidth": false,
+             //     "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+             // }).buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');
+            // $('#example2').DataTable({
+            //     "paging": true,
+            //     "lengthChange": false,
+            //     "searching": false,
+            //     "ordering": true,
+            //     "info": true,
+            //     "autoWidth": false,
+            //     "responsive": true,
+            // });
+         });
+        EnqueryJS.GetEnqueryList();
+    })
+    
+</script>
+
+
+
+
+

@@ -1,0 +1,7 @@
+G:\MSDCollegeWebSite\MSDCollegePaliFinal\MSDCollegePali\MSDCollegePali\obj\Release\net8.0\PubTmp\Out\MSDCollegePali.exe
+G:\MSDCollegeWebSite\MSDCollegePaliFinal\MSDCollegePali\MSDCollegePali\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+G:\MSDCollegeWebSite\MSDCollegePaliFinal\MSDCollegePali\MSDCollegePali\obj\Release\net8.0\PubTmp\Out\appsettings.json
+G:\MSDCollegeWebSite\MSDCollegePaliFinal\MSDCollegePali\MSDCollegePali\obj\Release\net8.0\PubTmp\Out\MSDCollegePali.dll
+G:\MSDCollegeWebSite\MSDCollegePaliFinal\MSDCollegePali\MSDCollegePali\obj\Release\net8.0\PubTmp\Out\MSDCollegePali.deps.json
+G:\MSDCollegeWebSite\MSDCollegePaliFinal\MSDCollegePali\MSDCollegePali\obj\Release\net8.0\PubTmp\Out\MSDCollegePali.runtimeconfig.json
+G:\MSDCollegeWebSite\MSDCollegePaliFinal\MSDCollegePali\MSDCollegePali\obj\Release\net8.0\PubTmp\Out\MSDCollegePali.pdb
